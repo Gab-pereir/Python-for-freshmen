@@ -1,0 +1,8 @@
+print(5+5)
+print(5-5)
+print(5*5)
+print(5/5)
+print(5%5)
+print(5//5)
+print(5**5)
+print(pow(2,4))
