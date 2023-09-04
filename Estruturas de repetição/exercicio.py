@@ -12,7 +12,7 @@ while True:
 
     if sexo.upper() == "M":
         if idade > 18:
-            rapazes_maiores += 1
+            rapazes_maiores += 1                
     elif sexo.upper() == "F":
         soma_feminina += idade
         mocas += 1
